@@ -1,0 +1,59 @@
+a{
+    font-size: 35px;
+}
+
+/*order : link, visited, hover, active*/
+
+/*
+
+a:link {
+    color: red;
+}
+a:visited{
+    color: green;
+}
+a:hover {
+    color: chartreuse;
+}
+a:active{
+    color: darkmagenta;
+}*/
+
+a:link, a:visited {
+    background-color: hotpink;
+    color: white;
+    padding: 12px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+a:hover{
+    background-color: red;
+}
+a:active{
+    background-color: forestgreen;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,57 @@
+body{
+  padding-bottom: 20px;
+  color: #5a5a5a;
+}
+
+.navbar-wrapper{
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 20;
+}
+.carousel-inner .carousel-item > img{
+ 
+  height: 500px;
+  min-width: 100%;
+  top: 0;
+  left: 0;
+}
+.carousel{
+
+  padding-bottom: 50px;
+}
+
+.team .col-lg-4{
+  text-align: center;
+  margin-bottom: 20px;
+}
+.team > h2{
+  color: rgba(50, 50, 50, 0.8)
+}
+.team > p{
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.divider{
+  margin: 40px 0;
+}
+.para{
+  padding-left: 50px;
+  text-align: center;
+  padding-top: 80px;
+}
+.content{
+  margin-bottom: 30px;
+}
+
+
+footer{
+  margin: 0 110px;
+  
+}
+
+
+
+

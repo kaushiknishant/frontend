@@ -1,0 +1,22 @@
+body{
+  background: url("../images/pic1.jpg") 
+  no-repeat center center fixed;
+  background-size:cover;
+}
+div{
+  background-color: #fff;
+  opacity:0.5;
+}
+i{
+  color: red;
+}
+h1{
+  color: black;
+  text-align: center;
+  width:500px;
+  padding: 10px;
+  margin: 0 auto;
+  margin-top: 300px;
+  font-family: 'Oswald', sans-serif;
+  font-size: 3em;
+}
